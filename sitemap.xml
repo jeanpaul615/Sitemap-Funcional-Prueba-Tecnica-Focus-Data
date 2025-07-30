@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Página principal -->
+  <url>
+    <loc>https://www.focusdata.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Nosotros -->
+  <url>
+    <loc>https://www.focusdata.com/nosotros</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.focusdata.com/nosotros/equipo</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.focusdata.com/nosotros/quienes-somos</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.focusdata.com/nosotros/valores</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.focusdata.com/nosotros/historia</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.focusdata.com/nosotros/certificaciones</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Servicios -->
+  <url>
+    <loc>https://www.focusdata.com/servicios</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.focusdata.com/servicios/instalaciones</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.focusdata.com/servicios/mantenimiento</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.focusdata.com/servicios/asesoria</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Proyectos -->
+  <url>
+    <loc>https://www.focusdata.com/proyectos</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.focusdata.com/proyectos/casos-exito</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.focusdata.com/proyectos/evidencias</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.focusdata.com/proyectos/testimonios</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Preguntas Frecuentes -->
+  <url>
+    <loc>https://www.focusdata.com/faq</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contacto -->
+  <url>
+    <loc>https://www.focusdata.com/contacto</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.focusdata.com/contacto/redes-sociales</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.focusdata.com/contacto/whatsapp</loc>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
